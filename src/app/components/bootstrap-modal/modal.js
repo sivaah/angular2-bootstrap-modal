@@ -1,0 +1,9 @@
+var bootstrap_modal_1 = require("./bootstrap-modal");
+exports.BootstrapModal = bootstrap_modal_1.BootstrapModal;
+var modal_header_1 = require("./modal-header");
+exports.ModalHeader = modal_header_1.ModalHeader;
+var modal_body_1 = require("./modal-body");
+exports.ModalBody = modal_body_1.ModalBody;
+var modal_footer_1 = require("./modal-footer");
+exports.ModalFooter = modal_footer_1.ModalFooter;
+//# sourceMappingURL=modal.js.map
