@@ -1,12 +1,15 @@
 # angular2-bootstrap-modal
 Angular2 Modal / Dialogue using bootstrap
 
+Based on Angular2 Quickstart
+https://angular.io/docs/ts/latest/quickstart.html
+
 ##Prerequisites
 The generated project has dependencies that require Node 4 or greater.
 
 ##Dependent npm modules
-1. angular2  >= 2.0.0-alpha.44
-2. systemjs >= 0.19.2
+1. angular2 2.0.0-alpha.53
+2. systemjs 0.19.6
 3. bootstrap
 4. jquery
 
@@ -16,7 +19,7 @@ Download the files and from the root run
 ```
 npm install
 
-npm start
+npm run lite
 ```
 ## Usage
 
